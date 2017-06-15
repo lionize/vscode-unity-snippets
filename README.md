@@ -9,12 +9,10 @@ all snippets in the original package created by Ycleptic Studios. They were
 ugly and a source of complaints on the original mod's extension page, so I
 removed them.
 
-![Usage Demo](images/usage-demo.gif)
-
 ## Usage
 To use the snippets, simply begin typing one of the functions and the suggestions will
 appear within the IntelliSense popup. Press enter or tab to insert the snippet.
 
 ## Installation
 1. Open the VS Code command palette `Ctrl`-`Shift`-`P` (Windows, Linux) or `Cmd`-`Shift`-`P` (OSX).
-2. Type `ext install unity-snippets`.
+2. Type `ext install unity-snippets-modified`.
