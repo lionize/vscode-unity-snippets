@@ -1,9 +1,9 @@
 {
-    "name": "unity-snippets",
-    "displayName": "Unity Snippets",
-    "publisher": "YclepticStudios",
+    "name": "unity-snippets-modified",
+    "displayName": "Unity Snippets Modified",
+    "publisher": "lionize",
     "description": "Unity MonoBehaviour function snippets with documentation.",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "engines": {
         "vscode": "0.10.x"
     },
@@ -25,11 +25,11 @@
     },
     "license": "SEE LICENSE IN LICENSE.md",
     "bugs": {
-        "url": "https://github.com/YclepticStudios/vscode-unity-snippets/issues"
+        "url": "https://github.com/lionize/vscode-unity-snippets/issues"
     },
-    "homepage": "https://github.com/YclepticStudios/vscode-unity-snippets/blob/master/README.md",
+    "homepage": "https://github.com/lionize/vscode-unity-snippets/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YclepticStudios/vscode-unity-snippets.git"
+        "url": "https://github.com/lionize/vscode-unity-snippets.git"
     }
 }
