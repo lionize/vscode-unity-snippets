@@ -2,8 +2,8 @@
     "name": "unity-snippets-modified",
     "displayName": "Unity Snippets Modified",
     "publisher": "lionize",
-    "description": "Unity MonoBehaviour function snippets with documentation.",
-    "version": "0.3.1",
+    "description": "Unity MonoBehaviour function snippets with documentation (but no summary comment blocks).",
+    "version": "0.3.2",
     "engines": {
         "vscode": "0.10.x"
     },
