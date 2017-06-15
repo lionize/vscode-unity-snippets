@@ -4,6 +4,11 @@ C# scripts. It contains the "Message" functions within MonoBehaviour, such as "S
 "OnCollisionEnter", and "OnSerializeNetworkView", complete with their signatures and
 brief documentation.
 
+The "modification" is the removal of the summary blocks that were attached to
+all snippets in the original package created by Ycleptic Studios. They were
+ugly and a source of complaints on the original mod's extension page, so I
+removed them.
+
 ![Usage Demo](images/usage-demo.gif)
 
 ## Usage
