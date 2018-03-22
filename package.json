@@ -1,35 +1,35 @@
 {
-    "name": "unity-snippets-modified",
-    "displayName": "Unity Snippets Modified",
-    "publisher": "lionize",
-    "description": "Unity MonoBehaviour function snippets with documentation (but no summary comment blocks).",
-    "version": "0.3.2",
-    "engines": {
-        "vscode": "0.10.x"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "csharp",
-                "path": "./snippets/snippets.json"
-            }
-        ]
-    },
-    "icon": "images/icon.png",
-    "galleryBanner": {
-        "color": "#046380",
-        "theme": "dark"
-    },
-    "license": "SEE LICENSE IN LICENSE.md",
-    "bugs": {
-        "url": "https://github.com/lionize/vscode-unity-snippets/issues"
-    },
-    "homepage": "https://github.com/lionize/vscode-unity-snippets/blob/master/README.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/lionize/vscode-unity-snippets.git"
-    }
+  "name": "unity-snippets-modified",
+  "displayName": "Unity Snippets Modified",
+  "publisher": "lionize",
+  "description":
+    "Unity MonoBehaviour function snippets with documentation (but no summary comment blocks).",
+  "version": "0.4.0",
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": ["Snippets"],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "csharp",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#046380",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/lionize/vscode-unity-snippets/issues"
+  },
+  "homepage":
+    "https://github.com/lionize/vscode-unity-snippets/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lionize/vscode-unity-snippets.git"
+  }
 }
